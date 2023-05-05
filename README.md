@@ -2,9 +2,9 @@
 
 How it will work,
 
-- `git clone git@github.com:Credenz-Web-Weaver/travel-agency.git` --- To install dependicies
+- `git clone git@github.com:Credenz-Web-Weaver/travel-agency.git` --- To copy the files from github to pc
 
-- `open index.html in the browser` --- To start server
+- `open index.html in the browser` --- To open the webpage
 
 ### Currently this application do:
 
